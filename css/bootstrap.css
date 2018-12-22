@@ -5511,6 +5511,12 @@ button.close {
   }
 }
 
+@media (min-width: 1280px) {
+  .modal-xlg {
+    max-width: 1024px;
+  }
+}
+
 .tooltip {
   position: absolute;
   z-index: 1070;
